@@ -14,7 +14,7 @@
 		"abr": "clearweather",
 		"price": 400,
 		"karmatype": "Good"
-	},
+	},	
 	{
 		"abr": "rain",
 		"price": 350,
@@ -332,7 +332,7 @@
 	},
 	{
 		"abr": "reviveme",
-		"price": 1200,
+		"price": 2833,
 		"karmatype": "Good"
 	},
 	{
@@ -347,7 +347,7 @@
 	},
 	{
 		"abr": "healme",
-		"price": 2000,
+		"price": 2167,
 		"karmatype": "Good"
 	},
 	{
@@ -372,7 +372,7 @@
 	},
 	{
 		"abr": "fullheal",
-		"price": 2000,
+		"price": 2167,
 		"karmatype": "Good"
 	},
 	{
